@@ -10,4 +10,5 @@ projects of interest mentored by university faculty. Student acceptance and plac
 made after consultation between GTI staff and mentoring professors.
 
 Project: Methods and Software in Probabilstic Risk Assessment
+
 Final presentation poster and video
